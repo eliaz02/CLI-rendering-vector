@@ -1,4 +1,4 @@
-# Terminal 3D Renderer (C)
+# Terminal 3D Vector Renderer (C)
 A lightweight, scratch-built 3D rendering engine that draws wireframe geometry directly in the terminal using ASCII. Built purely in C without external graphics libraries.
 
 ## Key Features
